@@ -1,0 +1,2 @@
+# react20_uygulama
+veri_çekme-detayları_gösterme
