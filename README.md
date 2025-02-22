@@ -1,2 +1,2 @@
-# react20_uygulama
+# react201_uygulama
 veri_çekme-detayları_gösterme
